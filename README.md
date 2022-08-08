@@ -1,6 +1,6 @@
 🙋‍♀️ Holla. I'm Leah.<br>
-🍁 I’m Canadian.<br>
-🌧️ But I'm based in the UK.<br>
+🌧️ I'm based in the UK.<br>
+🍁 But my accent is Canadian.<br>
 🤖 My research focuses on social perceptions of AI, digital storytelling, and technologies of communication.
 
 <!---
